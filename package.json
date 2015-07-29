@@ -1,0 +1,30 @@
+{
+  "name": "state-machine-test",
+  "version": "0.0.1",
+  "description": "Testing state.js state machine library",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomaash/state-machine-test.git"
+  },
+  "homepage": "https://github.com/tomaash/state-machine-test",
+  "author": "tomaash",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^5.5.8",
+    "state.js": "^5.4.5"
+  },
+  "tags": [
+    "mongodb",
+    "koa",
+    "mongoose"
+  ],
+  "keywords": [
+    "mongodb",
+    "koa",
+    "mongoose"
+  ],
+  "engines": {
+    "iojs": "^2.4.0"
+  }
+}
