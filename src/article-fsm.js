@@ -1,7 +1,5 @@
 var fsm = require("state.js");
 
-// var machine = require("./machine");
-
 var evaluateAction = function (options) {
   var role = options.user.role;
   var action = options.action;
