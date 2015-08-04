@@ -1,8 +1,8 @@
 {
   "name": "state-machine-test",
   "version": "0.0.1",
-  "description": "Testing state.js state machine library",
-  "main": "server.js",
+  "description": "Article state machine library",
+  "main": "src/article-fsm.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/tomaash/state-machine-test.git"

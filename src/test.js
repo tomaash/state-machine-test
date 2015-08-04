@@ -2,4 +2,4 @@
 require('babel/register');
 
 // Start the server
-require('./main.js');
+require('./test-main');
